@@ -1,5 +1,5 @@
 # Klasifikasi Penyakit Jantung (Heart Disease)
-Tugas Mata Kuliah Big Data - Implementasi Algoritma Random Forest.
+Tugas Mata Kuliah Big Data .
 
 **Akurasi Model:** 86.89%
 
@@ -11,5 +11,5 @@ Tugas Mata Kuliah Big Data - Implementasi Algoritma Random Forest.
 ### 2. Confusion Matrix
 ![Confusion Matrix](confusion_matrix.png)
 
-### 3. Feature Importance (Fitur Paling Berpengaruh)
+### 3. Feature Importance 
 ![Feature Importance](feature_importance.png)
